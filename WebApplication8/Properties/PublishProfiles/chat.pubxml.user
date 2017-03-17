@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Administrator.SC-201703152226\Desktop\Back</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Microsoft.AspNet.SignalR.Core.dll">
+      <publishTime>01/18/2017 12:27:33</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.SignalR.SystemWeb.dll">
+      <publishTime>01/18/2017 12:27:33</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>01/18/2017 12:27:33</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>01/18/2017 12:27:33</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>01/18/2017 12:27:33</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>01/17/2017 17:46:51</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>01/18/2017 12:27:32</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>01/18/2017 12:27:33</publishTime>
+    </File>
+    <File Include="bin/WebApplication8.dll">
+      <publishTime>01/18/2017 14:07:16</publishTime>
+    </File>
+    <File Include="danmu.aspx">
+      <publishTime>01/18/2017 10:37:46</publishTime>
+    </File>
+    <File Include="index.aspx">
+      <publishTime>01/18/2017 13:39:45</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>01/18/2017 12:27:38</publishTime>
+    </File>
+    <File Include="Scripts/damoo.min.js">
+      <publishTime>01/18/2017 10:29:54</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.6.4.js">
+      <publishTime>01/17/2017 17:44:42</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.6.4.min.js">
+      <publishTime>01/17/2017 17:44:42</publishTime>
+    </File>
+    <File Include="Scripts/jquery.signalR-2.2.1.js">
+      <publishTime>01/17/2017 17:44:42</publishTime>
+    </File>
+    <File Include="Scripts/jquery.signalR-2.2.1.min.js">
+      <publishTime>01/17/2017 17:44:42</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/18/2017 13:32:41</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
